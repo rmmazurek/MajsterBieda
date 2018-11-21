@@ -21,6 +21,9 @@ namespace Kargol
 
     class Dzik
     {
-
+        public string Dzikidzik()
+        {
+            return "Stringy";
+        }
     }
 }
