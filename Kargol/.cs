@@ -10,4 +10,6 @@ public class FeatureOneClass
     }
 
     public string MyOtherMethod() => "string";
+
+    public string MyOtherOtherMethod() => "its different";
 }
